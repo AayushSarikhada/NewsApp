@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+    <string name="top_stories">Top Stories</string>
+    <string name="latest_stories">Latest Stories</string>
+    <string name="about_me">About Me</string>
+    <string name="feedback">FeedBack</string>
+
+    <string name="open">Opened the drawer</string>
+    <string name="close">Closed the drawer</string>
+    <string name="title_activity_story_web_view">story_webView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

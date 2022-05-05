@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+        <group android:id="@+id/application" >
+                <item
+                    android:icon="@drawable/newsicon"
+                    android:id="@+id/top_stories"
+                    android:title="@string/top_stories"/>
+                <item
+                    android:icon="@drawable/latestnews"
+                    android:id="@+id/latest_stories"
+                    android:title="@string/latest_stories" />
+        </group>
+
+        <group android:id="@+id/system">
+                <item
+                    android:icon="@drawable/ic_baseline_feedback_24"
+                    android:id="@+id/feedBack"
+                    android:title="@string/feedback"/>
+                <item
+                    android:icon="@drawable/ic_baseline_emoji_people_24"
+                    android:id="@+id/about_me"
+                    android:title="@string/about_me" />
+        </group>
+
+
+</menu>
