@@ -6,4 +6,4 @@ NOTE: this app is currently in beta state and is not completed; only popular sto
 
 Below are some screenshots of the working app.
 
-<img src="images/first.jpg" width= 150> <img src="images/second.jpg" width= 150>
+<img src="images/first.jpg" width= 150>         <img src="images/second.jpg" width= 150>
